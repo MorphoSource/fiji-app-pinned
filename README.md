@@ -1,4 +1,4 @@
-# fiji-app-pinned
-As of 1/18/2022, the latest version of [Fiji](https://fiji.sc) made available to download is [2.1.0](https://downloads.imagej.net/fiji/latest/fiji-nojre.zip). Running `./Fiji.app/ImageJ-linux64 --update update` provides Fiji 2.3.0 / ImageJ 1.53f. This repository includes Fiji 2.3.0, updated from the available 2.1.0 downloadable version.
+# fiji tools
+This repo was initially created because MorphoSource needed a version of Fiji that could not be downloaded directly, but needed to be obtained through upgrading an earlier version of Fiji, and therefore this repo was created to host an upgraded version of Fiji. This issue has been fixed now, and MorphoSource is able to pull Fiji directly from the official file repository. As of 5/17/2023, MorphoSource uses Fiji 2.11.0. Now this repo is used for support scripts used with Fiji. 
 
-Anyone looking for official releases of Fiji should visit the official [Fiji website](https://fiji.sc) and/or the official [Fiji GitHub repository](https://github.com/fiji/fiji). This is an unofficial redistribution of Fiji making it easier to acquire one specific version of the software (2.3.0).
+Anyone looking for official releases of Fiji should visit the official [Fiji website](https://fiji.sc) and/or the official [Fiji GitHub repository](https://github.com/fiji/fiji).
